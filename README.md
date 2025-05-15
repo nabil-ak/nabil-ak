@@ -8,7 +8,7 @@
 
 <p align="right"> <h3>Profile Views :</h3> 
 
-[![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnabil-ak&count_bg=%237454E4&title_bg=%23555555&icon=codeforces.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)⠀⠀⠀
+![](https://komarev.com/ghpvc/?username=your-github-username)⠀
 
 </p>
 
