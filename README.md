@@ -45,7 +45,7 @@
 
 <h3>Statistics:</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabil-ak&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabil-ak&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=ehealth-java-project-ws2122"/>
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=nabil-ak&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nabil-ak&langs_count=10&layout=compact&theme=tokyonight&exclude_repo=ehealth-java-project-ws2122"/>
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
